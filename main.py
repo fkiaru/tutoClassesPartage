@@ -4,6 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 class Toto1():
     pass #essai actualisation
+class Toto2()
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
